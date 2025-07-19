@@ -56,6 +56,4 @@
 
 ---
 
-## 📫 Контакты
 
-Связь: Telegram [@your_username](https://t.me/your_username)
